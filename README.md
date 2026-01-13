@@ -1,2 +1,2 @@
 # Javascript-bssics
-This repository contains JavaScript basics with examples and notes
+This repository contains JavaScript data types HTML code
